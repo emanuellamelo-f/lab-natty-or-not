@@ -1,12 +1,12 @@
 # O Refúgio Cromático: Chalé na Árvore & Castelo Dourado
 
 ## 📒 Descrição
-Este projeto consiste na criação de uma arte conceitual digital que une a natureza orgânica (um chalé construído dentro de uma árvore) com a arquitetura fantástica (um castelo ao fundo). A obra explora uma paleta de cores específica e vibrante (vermelho, azul, dourado, branco e preto) para representar a atmosfera de um universo literário fantástico.
+Este projeto consiste na criação de uma arte conceitual digital que une a natureza orgânica (um chalé construído dentro de uma árvore) com a arquitetura fantástica (um castelo ao fundo). A obra explora uma paleta de cores específica e vibrante (vermelho, azul, dourado, branco e preto) para representar a atmosfera de um universo literário fantástico e a imagem mostra o significado do sentido do real e o imaginario. 
 
 ## 🤖 Tecnologias Utilizadas
 * **IA Generativa de Texto:** Gemini (para refinamento e detalhamento do prompt descritivo).
-* **IA Generativa de Imagem:** [Insira aqui a IA que você usou, ex: Midjourney, Leonardo AI, DALL-E 3, Bing Image Creator].
-* **Edição (Opcional):** [Photoshop, Canva, etc., se houver].
+* **IA Generativa de Imagem:** [GEMINI].
+* **Edição (Opcional):** [CANVA].
 
 ## 🧐 Processo de Criação
 O processo começou com a definição dos elementos centrais da cena: um refúgio acolhedor integrado à natureza e uma estrutura majestosa ao fundo.
@@ -15,7 +15,7 @@ O processo começou com a definição dos elementos centrais da cena: um refúgi
 3.  **Geração:** Iterações na ferramenta de imagem até atingir o equilíbrio entre o rústico e o real.
 
 ## 🚀 Resultados
-A imagem final apresenta um contraste visual impactante entre as cores primárias e os detalhes metálicos do dourado.
+A imagem final apresenta um contraste visual impactante entre as cores primárias e os detalhes metálicos do dourado,com um estilo desfocado, para mostrar um, pouco da diferença entre real e imaginario. 
 
 ![5ff17eff51c659def70fc2ce220def6d2d540c4d](https://github.com/emanuellamelo-f/lab-natty-or-not/blob/191cd4cea6480eee78b4608ffde4a7d4070efab1/Gemini_Generated_Image_iczptziczptziczp.png)
 
