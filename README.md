@@ -17,7 +17,7 @@ O processo começou com a definição dos elementos centrais da cena: um refúgi
 ## 🚀 Resultados
 A imagem final apresenta um contraste visual impactante entre as cores primárias e os detalhes metálicos do dourado.
 
-![Insira sua imagem aqui](caminho-para-sua-imagem.jpg)
+![https://github.com/emanuellamelo-f/lab-natty-or-not/commit/5ff17eff51c659def70fc2ce220def6d2d540c4d)
 
 *Nota: A imagem acima é uma representação "Fake Natty" criada via IA, demonstrando como a tecnologia pode materializar descrições literárias complexas em segundos.*
 
