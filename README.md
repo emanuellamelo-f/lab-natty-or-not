@@ -17,7 +17,7 @@ O processo começou com a definição dos elementos centrais da cena: um refúgi
 ## 🚀 Resultados
 A imagem final apresenta um contraste visual impactante entre as cores primárias e os detalhes metálicos do dourado.
 
-![5ff17eff51c659def70fc2ce220def6d2d540c4d)
+![5ff17eff51c659def70fc2ce220def6d2d540c4d](https://github.com/emanuellamelo-f/lab-natty-or-not/blob/191cd4cea6480eee78b4608ffde4a7d4070efab1/Gemini_Generated_Image_iczptziczptziczp.png)
 
 *Nota: A imagem acima é uma representação "Fake Natty" criada via IA, demonstrando como a tecnologia pode materializar descrições literárias complexas em segundos.*
 
